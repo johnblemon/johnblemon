@@ -1,5 +1,7 @@
 #### Hello there 👋
 
+![Hello there](https://i.kym-cdn.com/photos/images/original/001/475/420/c62.gif)
+
 <!--
 **johnblemon/johnblemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
